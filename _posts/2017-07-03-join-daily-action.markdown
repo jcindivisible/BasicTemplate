@@ -3,6 +3,7 @@ title: Join Daily Action!
 date: 2017-07-03 19:25:00 Z
 categories:
 - Action
+- Take Action
 is featured: false
 ---
 
