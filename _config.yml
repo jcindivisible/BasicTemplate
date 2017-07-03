@@ -1,5 +1,5 @@
 ---
-title: Indivisible City
+title: Jackson County Indivisible
 timezone: UTC
 collections:
   posts:
@@ -57,15 +57,15 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: We are thousands of local citizens resisting the Trump agenda through civic
-  action.
-email: 
+subtitle: 'We are like-minded people working to build a grass roots effort to advocate
+  for progressive policies that benefit everyone. '
+email: jcindivisible@gmail.com
 baseurl: 
 url: 
 twitter_username: 
-facebook_username: 
-background-image: "/uploads/31773994174_c2e5706218_k.jpg"
-member-count: '100'
+facebook_username: facebook.com/groups/JCINdivisible
+background-image: "/uploads/20170422_103233.jpg"
+member-count: 50
 footer-title: Spread the word. Help build a movement.
 markdown: kramdown
 gems:
