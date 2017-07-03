@@ -18,3 +18,21 @@ The Guide that started a national movement! This guide is an excellent primer on
 
 [**ContactingCongress.org**](https://www.contactingcongress.org/)
 Quickly find members of Congress for any zip code or state.
+
+[**VoteSmart.org**](https://votesmart.org/)
+Find any politician's voting history.
+
+[**OpenSecrets.org**](http://www.opensecrets.org/)
+Find the biggest campaign contributors for any politician.
+
+[**Activist Tips from Ohio Citizen Action**](http://ohiocitizen.org/activist-tips/)
+Useful tips for engaging lawmakers.
+
+[**Indiana Board of Elections**](http://www.in.gov/sos/elections/)
+Voter information.
+
+[**Southern Indiana Indivisible**](https://www.soindivisible.org/)
+Our neighboring Indivisible Group to the south.
+
+[**Bartholomew County Indivisible**](http://www.bcindivisible.org/)
+Our neighboring Indivisible Group to the north.
