@@ -1,9 +1,10 @@
 ---
-title: Congresswoman Nancy Pelosi
+title: Representative Trey Hollingsworth
 date: 2017-02-21 02:08:00 Z
 phone-numbers:
-  SF Office: "(415) 556-4862"
-  DC Office: "(202) 225-4965"
-website: https://pelosi.house.gov
+  Washington D.C. Office: 'Phone: (202) 225-5315'
+  Jeffersonville Office: 'Phone: (812) 288-3999'
+  Greenwood Office: 'Phone: (317) 851-8710'
+website: https://hollingsworth.house.gov/
 ---
 
