@@ -2,7 +2,7 @@
 title: Become A Member
 date: 2017-02-17 03:58:00 Z
 position: 5
-mailchimp-form-embed: "//eepurl.com/cUS-Mf"
+mailchimp-form-embed: http://eepurl.com/cUS-Mf
 layout: becomeAMember
 ---
 
