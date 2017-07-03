@@ -13,4 +13,8 @@ text: |-
 layout: page
 ---
 
-test
+[**The Indivisible Guide**](https://www.indivisibleguide.com/)
+The Guide that started a national movement! This guide is an excellent primer on the Indivisible movement, with innovative ideas on how to take action in local and national government.
+
+[**ContactingCongress.org**](https://www.contactingcongress.org/)
+Quickly find members of Congress for any zip code or state.
