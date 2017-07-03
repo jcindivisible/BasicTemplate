@@ -8,7 +8,7 @@ Indivisible Guide: |-
 Field name: 
 Resources:
 - Indivisible Guide
-layout: post
+layout: page
 ---
 
 test
