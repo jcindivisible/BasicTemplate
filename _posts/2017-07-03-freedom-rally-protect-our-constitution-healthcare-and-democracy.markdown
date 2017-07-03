@@ -1,6 +1,8 @@
 ---
 title: 'Freedom Rally: Protect our Constitution, Healthcare, & Democracy'
 date: 2017-07-03 19:01:00 Z
+categories:
+- Event
 event-start-date: 2017-07-08 11:00:00 Z
 event-end-date: 2017-07-08 14:00:00 Z
 Location: |-
