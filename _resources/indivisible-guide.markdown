@@ -1,6 +1,7 @@
 ---
 title: Indivisible Guide
 date: 2017-07-03 19:43:00 Z
+layout: post
 ---
 
 https://www.indivisibleguide.com/
