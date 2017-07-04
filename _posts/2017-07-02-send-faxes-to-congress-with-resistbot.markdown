@@ -1,6 +1,6 @@
 ---
 title: Send Faxes to Congress with Resistbot!
-date: 2017-07-03 20:22:00 Z
+date: 2017-07-02 20:22:00 Z
 categories:
 - action
 ---
