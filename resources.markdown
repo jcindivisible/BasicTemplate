@@ -37,9 +37,9 @@ Our neighboring Indivisible group to the south, also part of the 9th district.
 [**Bartholomew County Indivisible**](http://www.bcindivisible.org/)
 Our neighboring Indivisible group to the north.
 
-[**Indivisible Bloomington**](https://www.indivisiblebloomington.org/)Our neighboring Indivisible group to the Northwest, also part of the 9th district.
+[**Indivisible Bloomington**](https://www.indivisiblebloomington.org/) Our neighboring Indivisible group to the Northwest, also part of the 9th district.
 
-[**ACLU of Indiana**](http://aclu-in.org/)The ACLU of Indiana works daily in courts, legislatures and communities to defend and preserve the individual rights and liberties that the Constitution and laws of the United States guarantee everyone in this country.
+[**ACLU of Indiana**](http://aclu-in.org/) The ACLU of Indiana works daily in courts, legislatures and communities to defend and preserve the individual rights and liberties that the Constitution and laws of the United States guarantee everyone in this country.
 
 [**Countable**](https://www.countable.us/) Get clear, concise summaries of bills going through Congress, see what others think, then take action. 
 
