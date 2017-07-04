@@ -1,6 +1,7 @@
 ---
 title: Senator Todd Young
 date: 2017-02-04 02:01:00 Z
+position: 2
 phone-numbers:
   Washington D.C. Office: 'Phone: (202) 224-5623'
   New Albany Office: 'Phone: (812) 542-4820'

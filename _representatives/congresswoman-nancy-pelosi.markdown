@@ -1,6 +1,7 @@
 ---
 title: Representative Trey Hollingsworth
 date: 2017-02-21 02:08:00 Z
+position: 3
 phone-numbers:
   Washington D.C. Office: 'Phone: (202) 225-5315'
   Jeffersonville Office: 'Phone: (812) 288-3999'
