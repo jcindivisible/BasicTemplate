@@ -45,3 +45,9 @@ Our neighboring Indivisible group to the north.
 
 [**GovTrack**](https://www.govtrack.us/) GovTrack tracks legislation being debated in the United States Congress.
 
+[**Indiana General Assembly**](https://iga.in.gov/) Learn about committees and legislation in our General Assembly. Also watch the House, Senate, and committees live and check the legislative calendar.
+
+[**South Central Indiana League of Women Voters** ](https://www.facebook.com/South-Central-Indiana-League-of-Women-Voters-124077911025018/) Working to protect the rights of every voter and encourage citizens' active participation in government.
+
+[**Indivisible Indiana**](https://www.facebook.com/IndivisibleIndiana/) Our Statewide Indivisible group.
+
