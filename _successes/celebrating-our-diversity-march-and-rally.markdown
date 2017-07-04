@@ -1,6 +1,6 @@
 ---
 title: Celebrating Our Diversity March & Rally
-date: 2017-07-03 19:53:00 Z
+date: 2017-05-21 16:00:00 Z
 main-image: "/uploads/20170521_162350-ca250d.jpg"
 ---
 
