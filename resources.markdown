@@ -32,7 +32,16 @@ Useful tips for engaging lawmakers.
 Voter information.
 
 [**Southern Indiana Indivisible**](https://www.soindivisible.org/)
-Our neighboring Indivisible Group to the south.
+Our neighboring Indivisible group to the south, also part of the 9th district.
 
 [**Bartholomew County Indivisible**](http://www.bcindivisible.org/)
-Our neighboring Indivisible Group to the north.
+Our neighboring Indivisible group to the north.
+
+[**Indivisible Bloomington**](https://www.indivisiblebloomington.org/)Our neighboring Indivisible group to the Northwest, also part of the 9th district.
+
+[**ACLU of Indiana**](http://aclu-in.org/)The ACLU of Indiana works daily in courts, legislatures and communities to defend and preserve the individual rights and liberties that the Constitution and laws of the United States guarantee everyone in this country.
+
+[**Countable**](https://www.countable.us/) Get clear, concise summaries of bills going through Congress, see what others think, then take action. 
+
+[**GovTrack**](https://www.govtrack.us/) GovTrack tracks legislation being debated in the United States Congress.
+
