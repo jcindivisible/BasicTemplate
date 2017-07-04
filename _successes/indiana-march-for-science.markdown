@@ -1,6 +1,6 @@
 ---
 title: Indiana March for Science
-date: 2017-07-03 19:50:00 Z
+date: 2017-04-22 11:00:00 Z
 main-image: "/uploads/20170422_103233-0bc329.jpg"
 ---
 
