@@ -1,6 +1,6 @@
 ---
 title: Join Daily Action!
-date: 2017-07-03 19:25:00 Z
+date: 2017-07-02 19:25:00 Z
 categories:
 - action
 is featured: false
