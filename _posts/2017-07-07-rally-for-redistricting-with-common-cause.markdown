@@ -1,8 +1,12 @@
 ---
 title: Rally for Redistricting with Common Cause
 date: 2017-07-07 02:35:00 Z
+categories:
+- Event
 event-start-date: 2017-07-17 12:00:00 Z
 event-end-date: 2017-07-17 13:00:00 Z
+Location: Indiana State House 200 West Washington Street Second Floor, South Atrium,
+  Indianapolis, Indiana 46204
 RSVP-link: https://www.facebook.com/events/1684221941883217/?acontext=%7B%22action_history%22%3A%22[%7B%5C%22surface%5C%22%3A%5C%22page%5C%22%2C%5C%22mechanism%5C%22%3A%5C%22page_upcoming_events_card%5C%22%2C%5C%22extra_data%5C%22%3A[]%7D]%22%2C%22has_source%22%3Atrue%7D
 ---
 
