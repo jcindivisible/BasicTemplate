@@ -1,5 +1,5 @@
 ---
-title: JCI Second Monday of the Month Meeting
+title: JCI Fourth Tuesday of the Month Meeting
 date: 2017-07-07 03:13:00 Z
 categories:
 - Event
