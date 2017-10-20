@@ -1,5 +1,5 @@
 ---
-title: Jackson County INdivisible
+title: Jackson County INdivisible & Friends
 timezone: UTC
 collections:
   posts:
@@ -60,8 +60,7 @@ defaults:
   values:
     main-image: 
     mailchimp-form-embed: 
-subtitle: 'We are citizens of Jackson County, Indiana advocating for progressive policies
-  that benefit everyone. '
+subtitle: Jackson County Indivisible & Friends
 email: jcindivisible@gmail.com
 baseurl: 
 url: 
