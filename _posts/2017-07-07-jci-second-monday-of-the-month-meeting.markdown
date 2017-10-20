@@ -8,4 +8,4 @@ RSVP-link: https://www.facebook.com/events/294319010977482/?acontext=%7B%22ref%2
 
 Please join us for our regularly scheduled Fourth Tuesday of the Month Meeting. We will discuss current issues in our community and country, upcoming events in our group and the surrounding area, and more! 
 
-Please email us at [jcindivisible@gmail.com](jcindivisible@gmail.com) for the location.
+Please email us at jcindivisible@gmail.com for the location.
